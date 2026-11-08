@@ -43,22 +43,37 @@ On lui impose **le même instant**, **les mêmes données**, **les mêmes plafon
 | **DEMO** | Sans clé payante — agents déterministes, seed reproductible |
 | **Licence** | MIT |
 
-<p align="center"><strong>Fournisseurs LLM (adaptateurs — équité expérimentale)</strong></p>
+<p align="center"><strong>Fournisseurs LLM</strong> <sub>(adaptateurs · équité expérimentale)</sub></p>
 
 <p align="center">
-  <img src="docs/assets/icons/llm/demo.svg" width="40" alt="Demo" title="Démo déterministe — actif"/>
-  &nbsp;&nbsp;
-  <img src="docs/assets/icons/llm/openai.svg" width="40" alt="OpenAI" title="OpenAI — sur configuration"/>
-  &nbsp;&nbsp;
-  <img src="docs/assets/icons/llm/anthropic.svg" width="40" alt="Anthropic" title="Anthropic — sur configuration"/>
-  &nbsp;&nbsp;
-  <img src="docs/assets/icons/llm/google.svg" width="40" alt="Google" title="Google Gemini — sur configuration"/>
-  &nbsp;&nbsp;
-  <img src="docs/assets/icons/llm/ollama.svg" width="40" alt="Ollama" title="Ollama / local — sur configuration"/>
+  <a href="docs/GETTING_STARTED.md" title="Mode démo — actif sans clé">
+    <img src="docs/assets/icons/llm/demo.svg" height="40" alt="Démo"/><br/>
+    <sub><b>Démo</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://platform.openai.com" title="OpenAI">
+    <img src="docs/assets/icons/llm/openai.svg" height="40" alt="OpenAI"/><br/>
+    <sub><b>OpenAI</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.anthropic.com" title="Anthropic">
+    <img src="docs/assets/icons/llm/anthropic.svg" height="40" alt="Anthropic"/><br/>
+    <sub><b>Anthropic</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ai.google.dev" title="Google Gemini">
+    <img src="docs/assets/icons/llm/google.svg" height="40" alt="Google Gemini"/><br/>
+    <sub><b>Gemini</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ollama.com" title="Ollama">
+    <img src="docs/assets/icons/llm/ollama.svg" height="40" alt="Ollama"/><br/>
+    <sub><b>Ollama</b></sub>
+  </a>
 </p>
 
 <p align="center">
-  <sub>Démo active par défaut · clés API uniquement côté serveur · modèles vérifiés selon vos accès</sub>
+  <sub>Logos : <a href="https://simpleicons.org">Simple Icons</a> (MIT) · Démo active par défaut · clés API côté serveur uniquement</sub>
 </p>
 
 ---
@@ -184,7 +199,7 @@ Paper optionnel : `ALPACA_PAPER_*` — jamais mélangé au classement du simulat
 ## Crédits
 
 - [lightweight-charts](https://github.com/tradingview/lightweight-charts) (Apache-2.0, TradingView)
-- Icônes LLM : identification des fournisseurs supportés ; marques déposées de leurs titulaires — voir [docs/assets/icons/README.md](docs/assets/icons/README.md)
+- Icônes LLM : [Simple Icons](https://simpleicons.org) (MIT) — voir [docs/assets/icons/README.md](docs/assets/icons/README.md)
 
 ---
 

@@ -2,18 +2,18 @@
 
 ## LLM (`llm/`)
 
-Usage : README, UI (vue d’ensemble), documentation marketing.
+Pictogrammes issus de **[Simple Icons](https://simpleicons.org)** (licence MIT), avec couleurs de marque appliquées localement (`backend/scripts/brand_svg_fills.py`).
 
-| Fichier | Fournisseur |
-|---------|-------------|
-| `demo.svg` | Mode démo déterministe (projet) |
-| `openai.svg` | OpenAI |
-| `anthropic.svg` | Anthropic |
-| `google.svg` | Google (Gemini) |
-| `ollama.svg` | Endpoint local type Ollama |
+| Fichier | Marque | Rôle dans le lab |
+|---------|--------|------------------|
+| `demo.svg` | Vitest (proxy « démo reproductible ») | Mode DEMO sans clé |
+| `openai.svg` | OpenAI | Adaptateur API |
+| `anthropic.svg` | Anthropic | Adaptateur Claude |
+| `google.svg` | Google Gemini | Adaptateur Gemini |
+| `ollama.svg` | Ollama | Endpoint local |
 
-Les marques appartiennent à leurs propriétaires. Ces pictogrammes servent **uniquement** à indiquer les adaptateurs prévus ou actifs, sans affiliation ni endossement.
+Les marques déposées appartiennent à leurs titulaires. Aucune affiliation ni endossement.
 
 ## Illustrations (`../`)
 
-Visuels explicatifs générés pour la documentation (`pipeline-decision`, `arena-explainer`, `architecture-layers`, `hero-banner`, `og-social-preview`). Ils ne sont pas des captures d’écran du produit.
+Visuels explicatifs du README (`pipeline-decision`, `arena-explainer`, `architecture-layers`, etc.).

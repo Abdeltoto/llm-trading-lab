@@ -37,7 +37,7 @@ Ce laboratoire inverse la priorité :
 | Démo déterministe | ✅ | Zéro clé, enseignement, CI |
 | OpenAI | Configuration | Contrat JSON structuré |
 | Anthropic | Configuration | Idem |
-| Google | Configuration | Gemini |
+| Gemini (Google) | Configuration | API Google AI |
 | Local (Ollama) | Configuration | Modèles self-hosted |
 
 Expérience principale : **même architecture, même prompt, même budget plafond** par concurrent.
