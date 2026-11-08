@@ -8,7 +8,7 @@
 ## Chemin le plus rapide (Docker)
 
 ```powershell
-git clone https://github.com/<VOTRE_ORG>/llm-trading-lab.git
+git clone https://github.com/Abdeltoto/llm-trading-lab.git
 cd llm-trading-lab
 copy .env.example .env
 docker compose up --build
