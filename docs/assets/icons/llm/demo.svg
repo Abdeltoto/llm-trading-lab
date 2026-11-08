@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" role="img" aria-label="Demo deterministe">
+  <circle cx="12" cy="12" r="10" fill="#0f172a" stroke="#f59e0b" stroke-width="1.5"/>
+  <path fill="#f59e0b" d="M8 15V9l6 3-6 3z"/>
+  <circle cx="17" cy="7" r="3" fill="#22c55e"/>
+  <path stroke="#0f172a" stroke-width="1" d="M17 6v2M16 7h2"/>
+</svg>

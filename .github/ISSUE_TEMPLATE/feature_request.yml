@@ -1,0 +1,21 @@
+name: Idée / amélioration
+description: Proposition alignée avec la recherche simulée (pas de trading réel)
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problème ou besoin
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Solution proposée
+  - type: checkboxes
+    id: scope
+    attributes:
+      label: Périmètre
+      options:
+        - label: Cette idée respecte « argent fictif uniquement »
+          required: true
